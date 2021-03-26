@@ -14,7 +14,7 @@ class Solution:
     def isPowerOfThree(self, n: int) -> bool:
         if n <= 0:
             return False
-        print(math.log(n, 3))
+        # print(math.log(n, 3))
         _log = int(math.log(n, 3) + self.eps)
         return n == 3 ** _log
 
