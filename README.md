@@ -4,5 +4,8 @@
 
 # :wave: Hi
 
-LeetCode题Python代码，
-提升一下Python代码能力 0.0
+LeetCode题Python代码
+
+提升一下Python代码能力 0.0？
+
+哪有什么做题啊，老板的任务罢了
